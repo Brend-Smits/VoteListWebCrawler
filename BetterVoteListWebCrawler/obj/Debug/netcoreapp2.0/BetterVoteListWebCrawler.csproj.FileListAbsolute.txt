@@ -1,0 +1,11 @@
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\bin\Debug\netcoreapp2.0\BetterVoteListWebCrawler.deps.json
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\bin\Debug\netcoreapp2.0\BetterVoteListWebCrawler.runtimeconfig.json
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\bin\Debug\netcoreapp2.0\BetterVoteListWebCrawler.runtimeconfig.dev.json
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\bin\Debug\netcoreapp2.0\BetterVoteListWebCrawler.dll
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\obj\Debug\netcoreapp2.0\BetterVoteListWebCrawler.csprojAssemblyReference.cache
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\obj\Debug\netcoreapp2.0\BetterVoteListWebCrawler.csproj.CoreCompileInputs.cache
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\obj\Debug\netcoreapp2.0\BetterVoteListWebCrawler.AssemblyInfoInputs.cache
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\obj\Debug\netcoreapp2.0\BetterVoteListWebCrawler.AssemblyInfo.cs
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\bin\Debug\netcoreapp2.0\BetterVoteListWebCrawler.pdb
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\obj\Debug\netcoreapp2.0\BetterVoteListWebCrawler.dll
+c:\users\brend\source\repos\BetterVoteListWebCrawler\BetterVoteListWebCrawler\obj\Debug\netcoreapp2.0\BetterVoteListWebCrawler.pdb
